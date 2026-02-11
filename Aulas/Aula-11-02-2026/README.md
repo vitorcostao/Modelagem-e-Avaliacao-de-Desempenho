@@ -46,7 +46,7 @@ A metodologia é baseada na otimização do sistema sem gastar com hardware, por
 
 Em meio a muitas transações gerando carga alta e queda do servidor, algumas soluções são interessantes para estabilizar o sistema fazendo com que ele volte a funcionar.
 
-    1) Reabrir sistema em horário de pico é uma opção, porém pode causar euforia (o que aumenta a carga) e perda de lucro devido às horas de inatividade
+1) Reabrir sistema em horário de pico é uma opção, porém pode causar euforia (o que aumenta a carga) e perda de lucro devido às horas de inatividade
 
-    2) Dividir a carga nos servidores por meio de características, por exemplo, autorizar que determinadas pessoas nascidas a partir de uma determinada data voltem a usar o sistema (Como se fosse a rotatividade dos carros de São Paulo). 
+2) Dividir a carga nos servidores por meio de características, por exemplo, autorizar que determinadas pessoas nascidas a partir de uma determinada data voltem a usar o sistema (Como se fosse a rotatividade dos carros de São Paulo). 
 
