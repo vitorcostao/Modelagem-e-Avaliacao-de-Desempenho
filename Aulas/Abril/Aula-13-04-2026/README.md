@@ -1,4 +1,4 @@
-# Planejamento de Capacidade e Avaliação de Desempenho - Etapa 5
+# Modelagem e Avaliação de Desempenho - Aula 13
 
 ## Otimização do Sistema Computacional
 
