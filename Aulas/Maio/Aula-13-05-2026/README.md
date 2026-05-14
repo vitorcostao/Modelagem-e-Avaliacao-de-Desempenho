@@ -1,4 +1,5 @@
-# Modelagem e Avaliação de Desempenho - Aula 18 (Explicação do trabalho)
+# Enunciado do Trabalho: Planejamento de Capacidade
+
 ## Tema
 **Planejamento de Capacidade - Definindo SLAs para Infraestrutura nas Nuvens.**
 
